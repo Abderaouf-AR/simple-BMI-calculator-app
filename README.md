@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+This is a simple BMI calculator app It was created using flutter The calculating formule is BMI = weight / height^2 Where the height in meters and the weight in kg
 
 ## Getting Started
 
